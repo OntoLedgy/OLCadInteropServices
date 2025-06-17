@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TestCADInterOpServices": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
